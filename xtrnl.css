@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto&family=Sono:wght@200&family=Ubuntu&display=swap');
+
+
+body{
+    background: url('tofu65.png');
+    background-size: 50%;
+}
+
+div{
+    background: rgb(233, 184, 23, 0.7);
+    /* r, g, b, and the 4th value is for opacity ranging from 0 - 1 */
+    color: rgb(89, 22, 151);
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: 'Sono', sans-serif;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+
+
+
+}
+
+.firsthead{
+    background: rgba(89, 22, 151, 0.925);
+    color: rgb(233, 184, 23);
+}
+#ID_1{
+    color:rgb(255, 223, 0);
+}
+.sampleboX{
+    background: rgb(233, 184, 23);
+    /* margin: 50px; */
+    margin: 150px 150px 150px 150px;
+    /* margin value is top, right, bottom, and left */
+    padding: 20px 20px 20px 20px;
+    /* border: 10px dotted teal; */
+    /* border: 10px solid tomato; */
+    /* border: 4px dashed rgba(89, 22, 151, 0.925) */
+    /* types of border: solid, dotted, dashed, double, groove, ridge, insert, outset,  */
+    border: 4px solid rgba(89, 22, 151, 0.925);
+    border-radius: 50px;
+    box-shadow: 2px 2px 45px 20px rgb(233, 184, 23);
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    text-align: center;
+    text-shadow: 3px;
+
+}
+.overFlowSample{
+    /* width: 600px; */
+    height: 350px;
+            /* overflow: scroll; */
+    /* margin: 150px 150px 150px 150px; */
+            /* overflow-x: scroll; */
+    /* overflow-y: scroll; */
+    /* padding: 20px 20px 20px 20px; */
+            /* box-shadow: 4px 2px 45px 20px rgb(233, 184, 23); */
+            background: rgb(233, 184, 23);
+            /* margin: 50px; */
+            margin: 150px 150px 150px 150px;
+            /* margin value is top, right, bottom, and left */
+            padding: 20px 20px 20px 20px;
+            /* border: 10px dotted teal; */
+            /* border: 10px solid tomato; */
+            /* border: 4px dashed rgba(89, 22, 151, 0.925) */
+            /* types of border: solid, dotted, dashed, double, groove, ridge, insert, outset,  */
+            border: 4px solid rgba(89, 22, 151, 0.925);
+            /* border-radius: 50px; */
+            box-shadow: 2px 2px 45px 20px rgb(233, 184, 23);
+            overflow: scroll;
+            text-indent: 50px;
+            font-weight: bold;
+}
