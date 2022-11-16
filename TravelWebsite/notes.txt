@@ -1,0 +1,38 @@
+<ol>
+    <li>Create a travel blog website that will help promote Philippine tourism.</li>
+    <li>Select one (1) city in the Philippines that you want to cover.</li>
+    <li>The blog should include the following:</li>
+</ol>
+<ul>
+    <li>Pictures of the location (tourist spots, historical places etc.)</li>
+    <li>Discuss the culture of the city (food, festival, rituals, transportation etc.)</li>
+    <li>Things to bring</li>
+    <li>Sample itinerary</li>
+    <li>Tips in visiting the city</li>
+    <li>Hyperlinks to hotels, social media sites and other related articles.</li>
+    <li>Comment section</li>
+</ul> 
+<ol start="4">
+    <li>Enhance the webpage using CSS formatting and other styles.</li>
+    <li>Insert the screenshots of your codes and sample web page output below.</li>
+    <li>Upload your Exercise 6 files to Github pages.</li>
+    <li>Submit the github page link to the canvas</li>
+
+<li>File Name: WD34_EXERCISE6_LastName_Firstname.html</li>
+</ol>
+
+darker - #61481C
+dark - #A47E3B
+lighter - #BF9742
+lightest - #E6B325
+
+
+darker - #42032C
+dark - #D36B00
+lighter - #E6D2AA
+lightest - #F1EFDC
+
+darker - #42032C
+dark - #D36B00
+lighter - #E6D2AA
+lightest - #F1EFDC
